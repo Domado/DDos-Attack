@@ -1,7 +1,7 @@
 # PYTHON WEBSITE TESTER
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/XXX (THE GIT LINK FOT THIS)
 
 ### cd DDos-Attack
 
